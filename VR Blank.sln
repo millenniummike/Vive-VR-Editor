@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Blank", "VR Blank.csproj", "{75F54C34-EFDE-2BDD-73ED-4BD76D1EFEF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Blank.Editor", "VR Blank.Editor.csproj", "{20F8165B-C1F0-80E2-DBEC-9666CC7DF68B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F54C34-EFDE-2BDD-73ED-4BD76D1EFEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F54C34-EFDE-2BDD-73ED-4BD76D1EFEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F54C34-EFDE-2BDD-73ED-4BD76D1EFEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F54C34-EFDE-2BDD-73ED-4BD76D1EFEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F8165B-C1F0-80E2-DBEC-9666CC7DF68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F8165B-C1F0-80E2-DBEC-9666CC7DF68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F8165B-C1F0-80E2-DBEC-9666CC7DF68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F8165B-C1F0-80E2-DBEC-9666CC7DF68B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
